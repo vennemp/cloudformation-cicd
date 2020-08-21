@@ -4,4 +4,4 @@ project:
   - us-east-1
 tests:
   default:
-    template: ./templates/vpc.json
+    template: ./templates/s3.yaml
