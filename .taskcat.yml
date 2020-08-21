@@ -1,5 +1,5 @@
 project:
-  name: my-cfn-project
+  name: cfn-test
   regions:
   - us-east-1
 tests:
