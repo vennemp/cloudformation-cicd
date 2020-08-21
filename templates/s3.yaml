@@ -2,4 +2,4 @@ Resources:
   S3Bucket:
     Type: AWS::S3::Bucket
     Properties:
-      BucketName: AWSDOC-EXAMPLE-BUCKET-47rnkdfkji2neklkjf
+      BucketName: taskcat-cfn-test-47rnkdfkji2neklkjf
