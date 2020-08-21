@@ -150,6 +150,7 @@
         "AvailabilityZones": {
             "Description": "List of Availability Zones to use for the subnets in the VPC. Note: The logical order is preserved.",
             "Type": "List<AWS::EC2::AvailabilityZone::Name>"
+            "Default": "us-east-1a","us-east-1b"
         },
         "CreateAdditionalPrivateSubnets": {
             "AllowedValues": [
