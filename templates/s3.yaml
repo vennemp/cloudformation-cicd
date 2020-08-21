@@ -2,4 +2,4 @@ Resources:
   S3Bucket:
     Type: AWS::S3::Bucket
     Properties:
-      BucketName: taskcat-cfn-test-47rnkdfkji2neklkjf
+      BucketName: taskcat-cfn-test-47rnk5dfkji2neklkjf
