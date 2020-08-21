@@ -1,7 +1,7 @@
 project:
   name: task-cfn-test-1
   regions:
-  - us-east-1
+  - us-gov-west-1
 tests:
   default:
     template: ./templates/s3.yaml
